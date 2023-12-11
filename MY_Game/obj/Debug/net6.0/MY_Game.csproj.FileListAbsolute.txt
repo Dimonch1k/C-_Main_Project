@@ -1,0 +1,15 @@
+C:\Users\student\Desktop\VS\C#\C#_Classworks\C#_Classwork_5\MY_Game\MY_Game\bin\Debug\net6.0\MY_Game.exe
+C:\Users\student\Desktop\VS\C#\C#_Classworks\C#_Classwork_5\MY_Game\MY_Game\bin\Debug\net6.0\MY_Game.deps.json
+C:\Users\student\Desktop\VS\C#\C#_Classworks\C#_Classwork_5\MY_Game\MY_Game\bin\Debug\net6.0\MY_Game.runtimeconfig.json
+C:\Users\student\Desktop\VS\C#\C#_Classworks\C#_Classwork_5\MY_Game\MY_Game\bin\Debug\net6.0\MY_Game.dll
+C:\Users\student\Desktop\VS\C#\C#_Classworks\C#_Classwork_5\MY_Game\MY_Game\bin\Debug\net6.0\MY_Game.pdb
+C:\Users\student\Desktop\VS\C#\C#_Classworks\C#_Classwork_5\MY_Game\MY_Game\obj\Debug\net6.0\MY_Game.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\VS\C#\C#_Classworks\C#_Classwork_5\MY_Game\MY_Game\obj\Debug\net6.0\MY_Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\VS\C#\C#_Classworks\C#_Classwork_5\MY_Game\MY_Game\obj\Debug\net6.0\MY_Game.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\VS\C#\C#_Classworks\C#_Classwork_5\MY_Game\MY_Game\obj\Debug\net6.0\MY_Game.AssemblyInfo.cs
+C:\Users\student\Desktop\VS\C#\C#_Classworks\C#_Classwork_5\MY_Game\MY_Game\obj\Debug\net6.0\MY_Game.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\VS\C#\C#_Classworks\C#_Classwork_5\MY_Game\MY_Game\obj\Debug\net6.0\MY_Game.dll
+C:\Users\student\Desktop\VS\C#\C#_Classworks\C#_Classwork_5\MY_Game\MY_Game\obj\Debug\net6.0\refint\MY_Game.dll
+C:\Users\student\Desktop\VS\C#\C#_Classworks\C#_Classwork_5\MY_Game\MY_Game\obj\Debug\net6.0\MY_Game.pdb
+C:\Users\student\Desktop\VS\C#\C#_Classworks\C#_Classwork_5\MY_Game\MY_Game\obj\Debug\net6.0\MY_Game.genruntimeconfig.cache
+C:\Users\student\Desktop\VS\C#\C#_Classworks\C#_Classwork_5\MY_Game\MY_Game\obj\Debug\net6.0\ref\MY_Game.dll
